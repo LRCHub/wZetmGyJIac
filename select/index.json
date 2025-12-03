@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Haikei",
+  "base_artist": "ILL Fine",
+  "createdAt": "2025-12-03T14:01:43.751371Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Haikei Sakura Maichiru Kono Hi Ni",
+      "artist": "Mafumafu",
+      "has_synced": true,
+      "path": "select/01_Haikei_Sakura_Maichiru_Kono_Hi_Ni_Mafumafu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Haikei-Goodbye-Sayonara",
+      "artist": "DAOKO",
+      "has_synced": true,
+      "path": "select/02_Haikei-Goodbye-Sayonara_DAOKO.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Haikei Goodbye Sayonara [拝啓グッバイさようなら]",
+      "artist": "DAOKO",
+      "has_synced": true,
+      "path": "select/03_Haikei_Goodbye_Sayonara_[拝啓グッバイさようなら]_DAOKO.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Haikei Goodbye Sayonara",
+      "artist": "DAOKO",
+      "has_synced": true,
+      "path": "select/04_Haikei_Goodbye_Sayonara_DAOKO.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Tegami ~ haikei jū go no kimi e ~",
+      "artist": "Angela Aki",
+      "has_synced": true,
+      "path": "select/05_Tegami_~_haikei_jū_go_no_kimi_e_~_Angela_Aki.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Haikei Goodbye Sayonara",
+      "artist": "DAOKO",
+      "has_synced": true,
+      "path": "select/06_Haikei_Goodbye_Sayonara_DAOKO.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Haikei VAP-dono [拝啓VAP殿]",
+      "artist": "Maximum the Hormone",
+      "has_synced": true,
+      "path": "select/07_Haikei_VAP-dono_[拝啓VAP殿]_Maximum_the_Hormone.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Haikei-Goodbye-Sayonara",
+      "artist": "DAOKO",
+      "has_synced": true,
+      "path": "select/08_Haikei-Goodbye-Sayonara_DAOKO.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Haikei‐Goodbye‐Sayonara",
+      "artist": "DAOKO",
+      "has_synced": true,
+      "path": "select/09_Haikei‐Goodbye‐Sayonara_DAOKO.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Tegami - Haikei Jyugo No Kimie",
+      "artist": "Angela Aki",
+      "has_synced": true,
+      "path": "select/10_Tegami_-_Haikei_Jyugo_No_Kimie_Angela_Aki.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Haikei Anata Sama",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/11_Haikei_Anata_Sama_=LOVE.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Tegami Haikei Jugonokimihe",
+      "artist": "Angela Aki",
+      "has_synced": true,
+      "path": "select/12_Tegami_Haikei_Jugonokimihe_Angela_Aki.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Haikei, John Lennon",
+      "artist": "Magokoro Brothers",
+      "has_synced": true,
+      "path": "select/13_Haikei,_John_Lennon_Magokoro_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "HAIKEI SHOUNENYO (Short ver.)",
+      "artist": "Baby Band",
+      "has_synced": true,
+      "path": "select/14_HAIKEI_SHOUNENYO_(Short_ver.)_Baby_Band.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Haikei, Kimiwa...",
+      "artist": "ACE COLLECTION",
+      "has_synced": true,
+      "path": "select/15_Haikei,_Kimiwa..._ACE_COLLECTION.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "拝啓、桜舞い散るこの日に - Haikei Sakura Maichiru Kono Hi Ni",
+      "artist": "mafumafu",
+      "has_synced": true,
+      "path": "select/16_拝啓、桜舞い散るこの日に_-_Haikei_Sakura_Maichiru_Kono_Hi_Ni_mafumafu.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Haikei-Goodbye-Sayonara",
+      "artist": "DAOKO",
+      "has_synced": true,
+      "path": "select/17_Haikei-Goodbye-Sayonara_DAOKO.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "拝啓、桜舞い散るこの日に - Haikei Sakura Maichiru Kono Hi Ni",
+      "artist": "mafumafu",
+      "has_synced": true,
+      "path": "select/18_拝啓、桜舞い散るこの日に_-_Haikei_Sakura_Maichiru_Kono_Hi_Ni_mafumafu.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "haikei, otonagram",
+      "artist": "zenbukiminoseida.",
+      "has_synced": true,
+      "path": "select/19_haikei,_otonagram_zenbukiminoseida..lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Haikei",
+      "artist": "ILL Fine",
+      "has_synced": false,
+      "path": "select/pl_01_Haikei_ILL_Fine.txt"
+    }
+  ]
+}
